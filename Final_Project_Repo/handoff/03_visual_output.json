@@ -1,0 +1,41 @@
+{
+  "project_title": "國立臺南大學資訊工程學系形象宣傳影片",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "image_source": "1.png",
+      "camera_movement": "系徽圖檔緩慢放大（Scale up），搭配科技感過渡動畫進入下個畫面。",
+      "b_roll_needs": ["系徽去背透明圖層"]
+    },
+    {
+      "scene_id": 2,
+      "image_source": "2.jpg",
+      "camera_movement": "師資列表網頁圖片採用緩慢「由上往下滾動（Scroll Down）」的動態效果。",
+      "b_roll_needs": ["系上教授網頁截圖"]
+    },
+    {
+      "scene_id": 3,
+      "image_source": "3.jpg",
+      "camera_movement": "電腦教室上課畫面，使用由左至右橫移（Pan Right）淡入，聚焦於前排認真看螢幕的同學。",
+      "b_roll_needs": ["教室內學生實作全景照片"]
+    },
+    {
+      "scene_id": 4,
+      "image_source": "4.jpg",
+      "camera_movement": "靜態黑板講課照片，利用微幅的「數位推近（Digital Push-in）」聚焦黑板上的架構圖與教授。",
+      "b_roll_needs": ["黑板講課近景特寫"]
+    },
+    {
+      "scene_id": 5,
+      "image_source": "5.jpg",
+      "camera_movement": "競賽行程看板由下往上推移，突顯專題展的主題名稱「智慧感知與訊號分析」。",
+      "b_roll_needs": ["畢業專題展看板照片"]
+    },
+    {
+      "scene_id": 6,
+      "image_source": "6.jpg",
+      "camera_movement": "南大夜空照片以緩慢淡出（Fade out）結尾，結尾大字與系所報名網址 QR code 停留在正中央。",
+      "b_roll_needs": ["南大校園夜景照片"]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "project_title": "國立臺南大學資訊工程學系形象宣傳影片 (最終核定版)",
+  "total_duration_seconds": 58,
+  "compliance_note": "全片採用 9 張系所真實照片（含新增之數位電路麵包板、切比雪夫不等式推導與系所大橫幅）。片中可辨識之師生皆已取得授權同意，旁白採用 Luvvoice 台灣女聲，配樂為 CC0 古典交響樂，完全合規。",
+  "final_edit_list": [
+    {
+      "scene_id": 1,
+      "duration": "2.5s",
+      "image": "1.png (系徽) / +3.jpg (系所綠色橫幅)",
+      "narration": "掌控數位核心技術",
+      "subtitle": "掌控數位核心技術",
+      "audio_cue": "古典交響樂前奏淡入"
+    },
+    {
+      "scene_id": 2,
+      "duration": "2.5s",
+      "image": "1.png (系徽)",
+      "narration": "點燃你的程式魂，從這裡開始！",
+      "subtitle": "點燃你的程式魂，從這裡開始！",
+      "audio_cue": "交響樂主旋律推進"
+    },
+    {
+      "scene_id": 3,
+      "duration": "8s",
+      "image": "2.jpg (師資網頁)",
+      "narration": "國立臺南大學資訊工程學系，頂尖師資陣容引領未來技術。",
+      "subtitle": "國立臺南大學資訊工程學系，頂尖師資陣容引領未來技術。",
+      "audio_cue": "音樂轉為沉穩優雅的弦樂"
+    },
+    {
+      "scene_id": 4,
+      "duration": "5.5s",
+      "image": "3.jpg (電腦教室上課)",
+      "narration": "注重扎實實作，從零培養同學的實作能力。",
+      "subtitle": "注重扎實實作，從零培養同學的實作能力。",
+      "audio_cue": "加入鍵盤敲擊特效音"
+    },
+    {
+      "scene_id": 5,
+      "duration": "5s",
+      "image": "+1.jpg (數位電路麵包板)",
+      "narration": "理論與實務並重，打造頂尖資訊科學家。",
+      "subtitle": "理論與實務並重，打造頂尖資訊科學家。",
+      "audio_cue": "音樂維持高昂專注感"
+    },
+    {
+      "scene_id": 6,
+      "duration": "6.5s",
+      "image": "4.jpg (馮紐曼架構) / +2.jpg (切比雪夫不等式推導)",
+      "narration": "深入晶片系統與AI",
+      "subtitle": "深入晶片系統與AI",
+      "audio_cue": "管弦樂展現核心學術厚重感"
+    },
+    {
+      "scene_id": 7,
+      "duration": "4.5s",
+      "image": "5.jpg (115級專題展看板)",
+      "narration": "導選競賽鍛鍊即戰力",
+      "subtitle": "導選競賽鍛鍊即戰力",
+      "audio_cue": "交響樂進入高潮高鳴段"
+    },
+    {
+      "scene_id": 8,
+      "duration": "4s",
+      "image": "5.jpg (專題展演講廳)",
+      "narration": "團隊合作，畢業即對接高科技產業。",
+      "subtitle": "團隊合作，畢業即對接高科技產業。",
+      "audio_cue": "弦樂展現輝煌成就感"
+    },
+    {
+      "scene_id": 9,
+      "duration": "8s",
+      "image": "6.jpg (南大夜空椰林)",
+      "narration": "璀璨未來就在眼前",
+      "subtitle": "璀璨未來就在眼前",
+      "audio_cue": "音樂宏大延展，準備淡出"
+    },
+    {
+      "scene_id": 10,
+      "duration": "5s",
+      "image": "6.jpg (校園夜景定格)",
+      "narration": "南大資工系 歡迎你的加入！",
+      "subtitle": "南大資工系 歡迎你的加入！",
+      "audio_cue": "古典音樂緩慢淡出，定格加註隱私授權與合規字樣"
+    }
+  ]
+}

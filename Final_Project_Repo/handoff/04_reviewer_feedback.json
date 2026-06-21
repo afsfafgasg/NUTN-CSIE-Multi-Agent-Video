@@ -1,0 +1,20 @@
+{
+  "review_status": "NEEDS_REVISION",
+  "review_comments": [
+    {
+      "risk_type": "Factual Risk (真實性檢查)",
+      "scene_id": 4,
+      "comment": "經核對南大資工官方師資與照片4，黑板上為『馮紐曼與哈佛架構』，完全符合計算機系統與晶片系統領域，事實查核通過，無虛構誇大風險。"
+    },
+    {
+      "risk_type": "Portrait / Privacy Risk (肖像權風險)",
+      "scene_id": 3,
+      "comment": "照片3含有多位清晰可辨識的學生臉孔。為符合隱私與肖像權規範，Finalizer 必須加註『片中學生畫面皆已獲得當事人授權同意』或在剪輯時微調焦距。"
+    },
+    {
+      "risk_type": "Copyright Risk (版權風險)",
+      "scene_id": 1,
+      "comment": "圖1使用之南大資工系徽為官方正式識別。本專案為南大課程學術作業，且作為正向宣傳使用，符合合理使用原則，但需在素材來源表中列出出處。"
+    }
+  ]
+}

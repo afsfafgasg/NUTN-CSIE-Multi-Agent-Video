@@ -1,0 +1,56 @@
+{
+  "project_title": "國立臺南大學資訊工程學系形象宣傳影片",
+  "target_audience": ["高中生", "新生", "家長"],
+  "video_length_seconds": 60,
+  "core_message": "南大資工兼具頂尖師資與扎實實作，是你實踐資訊夢想的起點。",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "time_range": "0-5",
+      "purpose": "opening hook",
+      "visual_description": "秀出南大資工系徽（對應圖1）。",
+      "asset_policy": "self-made or openly licensed materials only",
+      "review_items": ["length", "truthfulness", "copyright"]
+    },
+    {
+      "scene_id": 2,
+      "time_range": "5-15",
+      "purpose": "faculty introduction",
+      "visual_description": "展示系上卓越師資陣容網頁（對應圖2）。",
+      "asset_policy": "self-made or openly licensed materials only",
+      "review_items": ["length", "truthfulness", "portrait rights"]
+    },
+    {
+      "scene_id": 3,
+      "time_range": "15-25",
+      "purpose": "classroom learning",
+      "visual_description": "學生在電腦教室認真上課與實作畫面（對應圖3）。",
+      "asset_policy": "self-made or openly licensed materials only",
+      "review_items": ["length", "truthfulness", "portrait rights"]
+    },
+    {
+      "scene_id": 4,
+      "time_range": "25-35",
+      "purpose": "advanced lecturing",
+      "visual_description": "教授於黑板前講解計算機架構與處理器設計（對應圖4）。",
+      "asset_policy": "self-made or openly licensed materials only",
+      "review_items": ["length", "truthfulness", "portrait rights"]
+    },
+    {
+      "scene_id": 5,
+      "time_range": "35-50",
+      "purpose": "project exhibition and analysis",
+      "visual_description": "畢業專題展演講廳門口與競賽行程看板（對應圖5）。",
+      "asset_policy": "self-made or openly licensed materials only",
+      "review_items": ["length", "truthfulness"]
+    },
+    {
+      "scene_id": 6,
+      "time_range": "50-60",
+      "purpose": "call to action",
+      "visual_description": "南大夜空椰林美景，浮現歡迎加入的大字（對應圖6）。",
+      "asset_policy": "self-made or openly licensed materials only",
+      "review_items": ["length", "copyright"]
+    }
+  ]
+}
